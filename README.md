@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafli Akhmad Baihaqi</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A passionate developer from Indonesia</h3>
+
+- 🌱 I’m currently learning **machine learning especially CNN**
+
+- 📫 How to reach me **baihaqrafli30@gmail.com**
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif">
 
@@ -15,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raflibaihaqi&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="raflibaihaqi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raflibaihaqi&show_icons=true&theme=tokyonight&locale=en" alt="raflibaihaqi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raflibaihaqi&theme=highcontrast" alt="raflibaihaqi" /></p>
