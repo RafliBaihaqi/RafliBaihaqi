@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafli Akhmad Baihaqi</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86910d8f-22c2-4390-a56f-4359a5cb7781/dduht31-e55da94c-f0a6-4b60-9635-721105d9a4d4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2OTEwZDhmLTIyYzItNDM5MC1hNTZmLTQzNTlhNWNiNzc4MVwvZGR1aHQzMS1lNTVkYTk0Yy1mMGE2LTRiNjAtOTYzNS03MjExMDVkOWE0ZDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tOz5N8qFezgGd1n-DTcIuAhKikR8g_ulVZcGAmpagJ4(https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86910d8f-22c2-4390-a56f-4359a5cb7781/dduht31-e55da94c-f0a6-4b60-9635-721105d9a4d4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2OTEwZDhmLTIyYzItNDM5MC1hNTZmLTQzNTlhNWNiNzc4MVwvZGR1aHQzMS1lNTVkYTk0Yy1mMGE2LTRiNjAtOTYzNS03MjExMDVkOWE0ZDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tOz5N8qFezgGd1n-DTcIuAhKikR8g_ulVZcGAmpagJ4">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
