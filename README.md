@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafli Akhmad Baihaqi</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
