@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rafli Baihaqi
+# Hi 👋, I'm Rafli Akhmad Baihaqi
 
 ### Fullstack Developer
 
