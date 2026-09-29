@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **baihaqirafli30@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://www.rafli-baihaqi.me/](https://www.rafli-baihaqi.me/)**
+- 👨‍💻 All of my projects are available at **[my personal website](https://rafli.work)**
 
 
 <!-- <picture>
